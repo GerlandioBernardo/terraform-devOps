@@ -32,4 +32,4 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
-echo "Infraestrutura (ec2 e bukert s3) criada com sucesso!"
+echo "Infraestrutura (ec2 e bucket s3) criada com sucesso!"
