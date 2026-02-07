@@ -1,0 +1,7 @@
+# Crie um arquivo chamando (terraform.tfvars)
+# Copie este arquivo para terraform.tfvars
+# E preencha com seus dados
+
+chave_acesso_aws = "SUA_CHAVE_ACESSO_AQUI"
+chave_secreta_aws = "SUA_CHAVE_SECRETA_AQUI"
+nome_bucket = "NOME_BUCKET_AQUI"
